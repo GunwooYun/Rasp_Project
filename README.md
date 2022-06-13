@@ -12,9 +12,11 @@
 * arduino_RP_Project : 아두이노 테스트 프로젝트
 * rp_projectFinal : STM32F429ZI 프로젝트   
       
+      
 구성도
 ---------
 ![mechanism](/Readme_src/mechanism.png)   
+    
     
 회로도
 ---------
