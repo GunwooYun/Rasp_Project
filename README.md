@@ -35,4 +35,4 @@ STM32F429ZI 핀 정보
      
 작동화면
 ----
-![running](/Readme_src/running2.png)
+![sized_running](/Readme_src/sized_running2.png)
