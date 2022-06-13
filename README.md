@@ -33,8 +33,17 @@ STM32F429ZI 핀 정보
 데이터베이스 테이블 구조
 --------
 ![table](/Readme_src/table_structure.png)   
+   
+   * DATE : 현재 날짜
+   * TIME : 현재 시간
+   * HUMI : 습도 값
+   * TEMP : 온도 값
+   * FLAME : 불꽃 감지 여부 값 ( 1 or 0)
+   * CDS : 조도 값
 
      
 작동화면
 ----
+* 좌측 화면에서는 실시간으로 데이터가 저장된 테이블을 출력, 우측에서는 google 차트를 이용하여 온습도 및 조도값 차트를 출력
+* 불꽃 감지 시 페이지 배경색 붉은색으로 출력
 ![sized_running](/Readme_src/sized_running2.png)
