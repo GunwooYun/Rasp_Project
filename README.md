@@ -46,4 +46,5 @@ STM32F429ZI 핀 정보
 ----
 * 좌측 화면에서는 실시간으로 데이터가 저장된 테이블을 출력, 우측에서는 google 차트를 이용하여 온습도 및 조도값 차트를 출력
 * 불꽃 감지 시 페이지 배경색 붉은색으로 출력
+
 ![sized_running](/Readme_src/sized_running2.png)
