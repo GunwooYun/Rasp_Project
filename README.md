@@ -49,4 +49,4 @@ STM32F429ZI 핀 정보
 
 |화재미감지|화재감지|
 |:---:|:---:|
-|![sized_running](/Readme_src/sized_running1.png)|![sized_running](/Readme_src/sized_running2.png)|
+|![sized_running](/Readme_src/_sized_running1.png)|![sized_running](/Readme_src/_sized_running2.png)|
